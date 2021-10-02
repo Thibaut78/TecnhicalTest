@@ -8,7 +8,7 @@ Niveau 01:
 Niveau 02 Web Version:
 -Language: JavaScript
 -Function: next() in class IntegerWrapper in file: ex2.js
--Install:   cd ex02-web versions
+-Install:   cd ex02_web
             npm install
 -Launch: npm start
 -Url: localhost:8080
@@ -16,5 +16,5 @@ Niveau 02 Web Version:
 Niveau 02 Terminal Version:
 -Language: JavaScript
 -Function: next() in class IntegerWrapper in file: ex2.js
--Launch:    cd ex02-terminal version
+-Launch:    cd ex02_terminal
             node ex2.js
