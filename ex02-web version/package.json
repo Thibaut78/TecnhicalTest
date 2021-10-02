@@ -1,0 +1,17 @@
+{
+  "name": "yesorno",
+  "version": "1.0.0",
+  "description": "Niveau 01: -language: C++ -Compilation: g++ ex1.cpp -Launch: ./a.out",
+  "main": "ex2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ex2.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^3.0.2"
+  },
+  "devDependencies": {}
+}

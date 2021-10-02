@@ -1,0 +1,18 @@
+br
+br
+br
+br
+form.form-integer(onclick='' action='/calc/?number=$number' method='get')
+  | IntegerWrapper
+  br
+  br
+  br
+  .form-integer
+    label(for='number') Enter your number (Positive and inferior 2^31): 
+    input#number(name='number' pattern='[0-9]+' min='0' type='number' number='number' required='')
+  br
+  br
+  .form-integer
+    input(onclick='' type='submit' value='Get it!')
+  br
+  h1= "Result:" + number

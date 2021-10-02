@@ -1,0 +1,20 @@
+Niveau 01:
+-language: C++
+-Function: count() in file: ex1.cpp
+-Compilation:   cd ex01/
+                g++ ex1.cpp
+-Launch: ./a.out
+
+Niveau 02 Web Version:
+-Language: JavaScript
+-Function: next() in class IntegerWrapper in file: ex2.js
+-Install:   cd ex02-web versions
+            npm install
+-Launch: npm start
+-Url: localhost:8080
+
+Niveau 02 Terminal Version:
+-Language: JavaScript
+-Function: next() in class IntegerWrapper in file: ex2.js
+-Launch:    cd ex02-terminal version
+            node ex2.js
